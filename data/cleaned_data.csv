@@ -1,0 +1,93 @@
+Name,Email,Age,City,Salary,Department,Investigation_Flag
+John Doe,john@email.com,25.0,Lagos,250000.0,SALES,OK
+Jane Smith,jane@email.com,31.0,Abuja,350000.0,MARKETING,OK
+David Ade,david@email.com,29.0,Lagos,300000.0,ENGINEERING,OK
+Mary Jones,mary@email.com,,Abuja,280000.0,HR,OK
+Peter Obi,peter@email.com,42.0,Unknown,450000.0,MANAGEMENT,OK
+,test@email.com,35.0,Lagos,200000.0,SUPPORT,Missing Name
+Sarah Connor,sarah_conor@@email,,Port-Harcourt,450000.0,OPERATIONS,OK
+Michael Okoro,michael.okoro@email,,Enwu,400000.0,ENGINEERING,OK
+Chinedu Eze,,34.0,Unknown,330000.0,IT,Missing Email
+Grace Lott,grace.lott@.com,,Abuja,290000.0,MARKETING,OK
+,unknown@domain,22.0,Philadelphia,150000.0,SUPPORT,Missing Name
+Fatima Dangote,fatima@dangote.ng,33.0,Kano,600000.0,STRATEGY,OK
+Bryan Adams,bryan@@mail.com,44.0,Lagos,340000.0,HR,OK
+Chioma King,chioma@king.net,0.0,Enugu,220000.0,IT,OK
+Samuel L.,sam@sam.,28.0,Unknown,275000.0,DESIGN,OK
+Kenneth O.,kenneth@mail,,Abuja,410000.0,ENGINEERING,OK
+,noemail@test.com,30.0,Lagos,180000.0,SUPPORT,Missing Name
+Joy Adebayo,joy.adebayo@mail,27.0,Abeokuta,260000.0,SALES,OK
+Musa Ibrahim,musa@ibrahim.com,36.0,Kano,320000.0,OPERATIONS,OK
+Ruth Okon,ruth@okon.org,45.0,Calabar,480000.0,MANAGEMENT,OK
+Bolaji Tunji,bolaji@tunji,21.0,Lagos,210000.0,MARKETING,OK
+Kemi Afolabi,kemi@afolabi.ng,39.0,Ibadan,350000.0,HR,OK
+,ghost@domain.com,50.0,Abuja,550000.0,EXECUTIVE,Missing Name
+Oluwafemi,femi@femi.com,24.0,Lagos,230000.0,TECH,OK
+Blessing Udoh,blessing@udoh,32.0,Uyo,300000.0,SALES,OK
+John Snow,john@winterfell.com,29.0,Lagos,390000.0,ENGINEERING,OK
+Sunny Joe,sunny@joe..com,41.0,Onitsha,330000.0,OPERATIONS,OK
+Linda Eke,linda@eke.co,26.0,Philadelphia,270000.0,SUPPORT,OK
+Ahmed Lawal,ahmed@lawal.org,37.0,Kaduna,380000.0,FINANCE,OK
+Ngozi Okonjo,ngozi@imf.org,60.0,Abuja,900000.0,MANAGEMENT,OK
+Daniel Craig,dan@bond.uk,52.0,London,750000.0,SECURITY,OK
+Tope Alabi,tope@alabi.com,48.0,Lagos,420000.0,ENTERTAINMENT,OK
+Racheal Green,rachel@centralperk,30.0,New York,310000.0,HOSPITALITY,OK
+Ross Geller,ross@dinosaur.net,32.0,New York,340000.0,SCIENCE,OK
+Monica Geller,monica@chef.com,31.0,New York,360000.0,CULINARY,OK
+Joey Tribbiani,joey@friends.tv,33.0,New York,250000.0,ACTING,OK
+Chandler Bing,chandler@excel.com,34.0,New York,400000.0,IT,OK
+Phoebe Buffay,phoebe@smellycat,31.0,New York,200000.0,MUSIC,OK
+Gunther Central,gunther@perk.com,40.0,New York,220000.0,SERVICE,OK
+Mike Hannigan,mike@piano.com,35.0,New York,380000.0,MUSIC,OK
+Janice Litman,ohmygod@yahoo.com,36.0,New York,290000.0,SALES,OK
+Richard Burke,richard@eye.md,55.0,New York,800000.0,MEDICAL,OK
+Timothy Adewale,tim@adewale.com,23.0,Lagos,190000.0,INTERN,OK
+Esther Johnson,esther@johnson,27.0,Abuja,265000.0,HR,OK
+Paul Okoye,paul@psquare.ng,44.0,Lagos,600000.0,MUSIC,OK
+Peter Okoye,peter@psquare.ng,44.0,Lagos,600000.0,MUSIC,OK
+Don Jazzy,don@mavin.com,43.0,Lagos,850000.0,PRODUCTION,OK
+Tiwa Savage,tiwa@savage.com,42.0,Lagos,700000.0,MUSIC,OK
+Wizkid Ayo,wiz@madeinlagos,35.0,Lagos,900000.0,MUSIC,OK
+Davido Adeleke,davido@dmw.com,33.0,Lagos,950000.0,MUSIC,OK
+Burna Boy,burna@outsider,34.0,Port Harcourt,920000.0,MUSIC,OK
+Temilade Openiyi,tems@tems.com,30.0,Lagos,650000.0,MUSIC,OK
+Olamide Adedeji,olamide@ybnl,37.0,Lagos,780000.0,PRODUCTION,OK
+Asa Elemide,asa@asa.com,43.0,Paris,500000.0,MUSIC,OK
+Fireboy Dml,fireboy@ybnl.com,25.0,Lagos,450000.0,MUSIC,OK
+Rema Rema,rema@mavin.com,24.0,Benin,480000.0,MUSIC,OK
+Ayra Starr,ayra@mavin,22.0,Lagos,400000.0,MUSIC,OK
+Asake Mr,asake@ybnl.ng,29.0,Lagos,550000.0,MUSIC,OK
+Bukola Saraki,bukola@saraki.org,61.0,Ilorin,800000.0,POLITICS,OK
+Tinubu Bola,bola@tinubu.ng,74.0,Lagos,1000000.0,LEADERSHIP,OK
+Atiku Abubakar,atiku@atiku.org,77.0,Abuja,950000.0,POLITICS,OK
+Peter Obi,peter@email.com,42.0,Onitsha,450000.0,POLITICS,OK
+Emmanuel Macron,emmanuel@elysee.fr,48.0,Paris,900000.0,GOVERNANCE,OK
+Joe Biden,joe@whitehouse,83.0,Washington,850000.0,GOVERNANCE,OK
+Donald Trump,donald@trump.com,80.0,Washington,900000.0,GOVERNANCE,OK
+Barack Obama,barack@obama.org,64.0,Washington,750000.0,WRITING,OK
+Elon Musk,elon@spacex.com,54.0,Austin,2000000.0,TECH,OK
+Jeff Bezos,jeff@amazon.com,62.0,Seattle,1800000.0,RETAIL,OK
+Bill Gates,bill@gates.org,70.0,Seattle,1500000.0,PHILANTHROPY,OK
+Mark Zuckerberg,mark@meta.com,41.0,Menlo Park,1700000.0,TECH,OK
+Satya Nadella,satya@microsoft,58.0,Redmond,1600000.0,TECH,OK
+Sundar Pichai,sundar@google.com,53.0,Mountain View,1650000.0,TECH,OK
+Tim Cook,tim@apple.com,65.0,Cupertino,1750000.0,TECH,OK
+Jensen Huang,jensen@nvidia.com,63.0,Santa Clara,1900000.0,TECH,OK
+Sam Altman,sam@openai.com,41.0,San Francisco,1400000.0,AI,OK
+Demis Hassabis,demis@deepmind,49.0,London,1300000.0,AI,OK
+Yann Lecun,yann@meta.com,65.0,New York,1200000.0,AI,OK
+Geoffrey Hinton,geoff@hinton.ai,78.0,Toronto,1100000.0,AI,OK
+Andrew Ng,andrew@deeplearning,50.0,Stanford,1000000.0,EDUCATION,OK
+Linguistbot,bot@ai.net,99.0,Cloud,0.0,AUTOMATION,OK
+Test User,test@test.com,,Nowhere,450000.0,TESTING,OK
+Null Name,null@null.com,,Void,450000.0,MUSIC,OK
+John Doe,john@email.com,25.0,Lagos,250000.0,SALES,OK
+Jane Smith,jane@email.com,31.0,Abuja,350000.0,MARKETING,OK
+Anonymous,anon@anon.org,35.0,Unknown,250000.0,SECURITY,OK
+Unknown Person,no-reply@domain,,Mars,450000.0,LOGISTICS,OK
+John Smith,smith@smith.co,45.0,Lagos,350000.0,LEGAL,OK
+Mary Poppins,mary@disney.uk,,London,300000.0,NANNY,OK
+Sherlock Holmes,sherlock@baker.st,,London,600000.0,DETECTIVE,OK
+Harry Potter,harry@hogwarts,36.0,London,450000.0,MAGIC,OK
+Bruce Wayne,bruce@wayne.com,42.0,Gotham,2500000.0,VIGILANTE,OK
+Clark Kent,clark@dailyplanet,38.0,Metropolis,500000.0,JOURNALISM,OK

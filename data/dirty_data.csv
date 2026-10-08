@@ -1,0 +1,101 @@
+Name,Email,Age,City,Salary,Department
+john doe,JOHN@EMAIL.COM,25,lagos,250000,Sales
+Jane Smith,jane@email.com,31,Abuja,350000,Marketing
+john doe,JOHN@EMAIL.COM,25,lagos,250000,Sales
+DAVID ADE,david@email.com,29,LAGOS,300000,Engineering
+Mary Jones,mary@email.com,-5,Abuja,280000,HR
+Peter Obi,peter@email.com,42,,450000,Management
+,test@email.com,35,Lagos,200000,Support
+Sarah Connor,sarah_conor@@email,150,Port-Harcourt,N/A,Operations
+MICHAEL OKORO,michael.okoro@email,abc,Enwu,400000,Engineering
+Amina Bello,amina@email,com,26,kano,-270000,Finance
+Chinedu Eze,,34,,330000,IT
+emeka okafor,emeka.o@mail..com,40,LAGOS,$310,000,Sales
+Grace Lott,grace.lott@.com,-2,Abuja,290000,Marketing
+,unknown@domain,22,PH,150000,Support
+Tunde Bakare,tunde@bakare,org,55,ibadan,500000,Executive
+FATIMA DANGOTE,fatima@dangote.ng,33,Kano,600000.00,Strategy
+john doe,JOHN@EMAIL.COM,25,lagos,250000,Sales
+BRYAN ADAMS,bryan@@mail.com,44,lagos,340k,HR
+chioma king,chioma@king.net,0,Enugu,220000,IT
+Samuel L.,sam@sam.,28,,275000,Design
+KENNETH O.,kenneth@mail,999,Abuja,410000,Engineering
+,noemail@test.com,30,Lagos,180000,Support
+Joy Adebayo,joy.adebayo@mail,27,Abeokuta,260000,Sales
+MUSA IBRAHIM,musa@ibrahim.com,36,KANO,320000,Operations
+Victor Edet,victor@edet,co,-12,Uyo,290000,Finance
+Ruth Okon,ruth@okon.org,45,Calabar,480000,Management
+bolaji tunji,bolaji@tunji,21,lagos,210000,Marketing
+Kemi Afolabi,kemi@afolabi.ng,39,Ibadan,350000,HR
+,ghost@domain.com,50,Abuja,550000,Executive
+OLUWAFEMI,femi@femi.com,24,LAGOS,230000,Tech
+Blessing Udoh,blessing@udoh,32,Uyo,300000,Sales
+JOHN SNOW,john@winterfell.com,29,Lagos,390000,Engineering
+Mary Jones,mary@email.com,-5,Abuja,280000,HR
+Sunny Joe,sunny@joe..com,41,Onitsha,330000,Operations
+LINDA EKE,linda@eke.co,26,PH,270000,Support
+Ahmed Lawal,ahmed@lawal.org,37,Kaduna,380000,Finance
+NGOZI OKONJO,ngozi@imf.org,60,Abuja,900000,Management
+Peter Obi,peter@email.com,42,,450000,Management
+Daniel Craig,dan@bond.uk,52,London,750000,Security
+TOPE ALABI,tope@alabi.com,48,Lagos,420000,Entertainment
+Racheal Green,rachel@centralperk,30,NY,310000,Hospitality
+Ross Geller,ross@dinosaur.net,32,NY,340000,Science
+MONICA GELLER,monica@chef.com,31,NY,360000,Culinary
+Joey Tribbiani,joey@friends.tv,33,NY,250000,Acting
+CHANDLER BING,chandler@excel.com,34,NY,400000,IT
+Phoebe Buffay,phoebe@smellycat,31,NY,200000,Music
+GUNTHER CENTRAL,gunther@perk.com,40,NY,220000,Service
+Mike Hannigan,mike@piano.com,35,NY,380000,Music
+JANICE LITMAN,ohmygod@yahoo.com,36,NY,290000,Sales
+Richard Burke,richard@eye.md,55,NY,800000,Medical
+timothy adewale,tim@adewale.com,23,lagos,190000,Intern
+ESTHER JOHNSON,esther@johnson,27,Abuja,265000,HR
+Paul Okoye,paul@psquare.ng,44,Lagos,600000,Music
+PETER OKOYE,peter@psquare.ng,44,Lagos,600000,Music
+Don Jazzy,don@mavin.com,43,Lagos,850000,Production
+TIWA SAVAGE,tiwa@savage.com,42,Lagos,700000,Music
+Wizkid Ayo,wiz@madeinlagos,35,Lagos,900000,Music
+DAVIDO ADELEKE,davido@dmw.com,33,Lagos,950000,Music
+Burna Boy,burna@outsider,34,Port Harcourt,920000,Music
+TEMILADE OPENIYI,tems@tems.com,30,Lagos,650000,Music
+Olamide Adedeji,olamide@yBNL,37,Lagos,780000,Production
+ASA ELEMIDE,asa@asa.com,43,Paris,500000,Music
+Fireboy DML,fireboy@ybnl.com,25,Lagos,450000,Music
+REMA REMA,rema@mavin.com,24,Benin,480000,Music
+Ayra Starr,ayra@mavin,22,Lagos,400000,Music
+ASAKE MR,asake@ybnl.ng,29,Lagos,550000,Music
+BUKOLA SARAKI,bukola@saraki.org,61,Ilorin,800000,Politics
+TINUBU BOLA,bola@tinubu.ng,74,Lagos,1000000,Leadership
+ATIKU ABUBAKAR,atiku@atiku.org,77,Abuja,950000,Politics
+PETER OBI,peter@email.com,42,Onitsha,450000,Politics
+EMMANUEL MACRON,emmanuel@elysee.fr,48,Paris,900000,Governance
+JOE BIDEN,joe@whitehouse,83,Washington,850000,Governance
+DONALD TRUMP,donald@trump.com,80,Washington,900000,Governance
+BARACK OBAMA,barack@obama.org,64,Washington,750000,Writing
+ELON MUSK,elon@spacex.com,54,Austin,2000000,Tech
+JEFF BEZOS,jeff@amazon.com,62,Seattle,1800000,Retail
+BILL GATES,bill@gates.org,70,Seattle,1500000,Philanthropy
+MARK ZUCKERBERG,mark@meta.com,41,Menlo Park,1700000,Tech
+SATYA NADELLA,satya@microsoft,58,Redmond,1600000,Tech
+SUNDAR PICHAI,sundar@google.com,53,Mountain View,1650000,Tech
+Tim Cook,tim@apple.com,65,Cupertino,1750000,Tech
+Jensen Huang,jensen@nvidia.com,63,Santa Clara,1900000,Tech
+SAM ALTMAN,sam@openai.com,41,San Francisco,1400000,AI
+DEMIS HASSABIS,demis@deepmind,49,London,1300000,AI
+YANN LECUN,yann@meta.com,65,New York,1200000,AI
+GEOFFREY HINTON,geoff@hinton.ai,78,Toronto,1100000,AI
+ANDREW NG,andrew@deeplearning,50,Stanford,1000000,Education
+LINGUISTBOT,bot@ai.net,99,Cloud,0,Automation
+TEST USER,test@test.com,-99,Nowhere,-1000,Testing
+NULL NAME,null@null.com,null,Void,null,None
+JOHN DOE,JOHN@EMAIL.COM,25,lagos,250000,Sales
+JANE SMITH,jane@email.com,31,Abuja,350000,Marketing
+ANONYMOUS,anon@anon.org,35,Unknown,250000,Security
+UNKNOWN PERSON,no-reply@domain,ab,Mars,NaN,Logistics
+JOHN SMITH,smith@smith.co,45,Lagos,350000,Legal
+MARY POPPINS,mary@disney.uk,102,London,300000,Nanny
+SHERLOCK HOLMES,sherlock@baker.st,150,London,600000,Detective
+HARRY POTTER,harry@hogwarts,36,London,450000,Magic
+BRUCE WAYNE,bruce@wayne.com,42,Gotham,2500000,Vigilante
+CLARK KENT,clark@dailyplanet,38,Metropolis,500000,Journalism
